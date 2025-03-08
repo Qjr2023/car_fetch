@@ -1,4 +1,5 @@
 scripts/my_cookies.py
 cookies.pkl
 .vscode/settings.json
-data.csv
+*.csv
+my_cookies.py
